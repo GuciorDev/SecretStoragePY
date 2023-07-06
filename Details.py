@@ -2,7 +2,6 @@ import json
 from tkinter import *
 from tkinter import filedialog, messagebox
 import random
-from tkinter import simpledialog
 import tkinter as tk
 import sys
 
